@@ -1,72 +1,55 @@
-# Hi there 👋, I'm Aman Sinha
+<h2 align="center">
+  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> , I'm Aman Sinha
+</h2>
 
-<!-- ANIMATED NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=320&lines=ghostisreal;AI+%26+Security+Enthusiast;Building+GHOST+AI;Android+Pentester" />
+  <b>ghostisreal</b> • AI & Security Enthusiast
 </p>
 
 ---
 
-## 👾 Animated Avatars / GIFs
+<!-- 🔹 GIF 2 : MIDDLE (RIGHT SIDE, MOBILE SAFE) -->
+<img
+  src="https://media.giphy.com/media/By7Mf8fJScgous3rh8/giphy.gif"
+  alt="Middle GIF"
+  align="right"
+  width="360"
+/>
 
-<!-- GIF 1 : PRIVATE (UPLOAD TO assets/private.gif) -->
-<p align="center">
-  <img
-    src="assets/private.gif"
-    alt="Private GIF"
-    style="max-width:260px; width:100%; border-radius:14px; border:2px solid #ff0000;"
-  />
-</p>
+### 🚀 About Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" />
 
-<!-- GIF 2 -->
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/By7Mf8fJScgous3rh8/giphy.gif"
-    alt="GIF 2"
-    style="max-width:260px; width:100%; border-radius:14px; border:2px solid #00ffff;"
-  />
-</p>
+- 🛡️ AI-driven security & automation  
+- 🔭 Building **GHOST AI** & Termux tools  
+- 🐍 Python • TypeScript • Linux  
+- 💬 Android hacking & AI integration  
 
-<!-- GIF 3 -->
+<br clear="right"/>
+
+---
+
+<!-- 🔹 GIF 3 : BOTTOM DIVIDER -->
 <p align="center">
   <img
     src="https://media.giphy.com/media/WjMnQiDQHbK6Y/giphy.gif"
-    alt="GIF 3"
-    style="max-width:260px; width:100%; border-radius:14px; border:2px solid #ffffff;"
+    width="90%"
+    alt="Divider GIF"
   />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🧙‍♂️ How to reach me <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="26" />
 
-- 🛡️ **Focus:** AI-driven security & automation  
-- 🔭 **Working on:** GHOST & Termux tools  
-- 🐍 **Main Stack:** Python, TypeScript, Linux  
-- 💬 **Ask me about:** Android hacking & AI integration  
-
----
-
-## 📫 How to reach me
-
-- 📧 **Email:** face.bookofficial0021@gmail.com  
-- 📸 **Instagram:** @hackwithghost  
-- 🔗 **LinkedIn:** ghostisreal  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white"/>
-</p>
+- 📧 Email: **face.bookofficial0021@gmail.com**  
+- 📸 Instagram: **@hackwithghost**  
+- 🔗 LinkedIn: **ghostisreal**
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF0000&width=220&lines=ghostisreal" />
+  <img
+    src="https://media.giphy.com/media/WjMnQiDQHbK6Y/giphy.gif"
+    width="90%"
+    alt="Divider GIF"
+  />
 </p>
