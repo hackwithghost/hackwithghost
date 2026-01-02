@@ -1,55 +1,53 @@
-<h2 align="center">
-  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> , I'm Aman Sinha
-</h2>
+# Hi there 👋, I'm Aman Sinha
 
+<!-- ANIMATED TEXT -->
 <p align="center">
-  <b>ghostisreal</b> • AI & Security Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=320&lines=ghostisreal;AI+%26+Security+Enthusiast;Building+GHOST+AI;Android+Pentester" />
 </p>
 
 ---
 
-<!-- 🔹 GIF 2 : MIDDLE (RIGHT SIDE, MOBILE SAFE) -->
-<img
-  src="https://media.giphy.com/media/By7Mf8fJScgous3rh8/giphy.gif"
-  alt="Middle GIF"
-  align="right"
-  width="360"
-/>
-
-### 🚀 About Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" />
-
-- 🛡️ AI-driven security & automation  
-- 🔭 Building **GHOST AI** & Termux tools  
-- 🐍 Python • TypeScript • Linux  
-- 💬 Android hacking & AI integration  
-
-<br clear="right"/>
-
----
-
-<!-- 🔹 GIF 3 : BOTTOM DIVIDER -->
+<!-- ANIMATED AVATAR / GIF (MOBILE SAFE) -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/WjMnQiDQHbK6Y/giphy.gif"
-    width="90%"
-    alt="Divider GIF"
+    src="https://media.giphy.com/media/4Ev0Ari2Nd9io/giphy.gif"
+    alt="Animated Avatar"
+    style="max-width: 260px; width: 100%; border-radius: 14px; border: 2px solid #ff0000;"
   />
 </p>
 
 ---
 
-### 🧙‍♂️ How to reach me <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="26" />
+## 🚀 About Me
 
-- 📧 Email: **face.bookofficial0021@gmail.com**  
-- 📸 Instagram: **@hackwithghost**  
-- 🔗 LinkedIn: **ghostisreal**
+- 🛡️ **Focus:** AI-driven security & automation  
+- 🔭 **Working on:** GHOST & Termux tools  
+- 🐍 **Main Stack:** Python, TypeScript, Linux  
+- 💬 **Ask me about:** Android hacking & AI integration  
 
 ---
 
+## 📫 How to reach me
+
+- 📧 **Email:** face.bookofficial0021@gmail.com  
+- 📸 **Instagram:** @hackwithghost  
+- 🔗 **LinkedIn:** ghostisreal  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/WjMnQiDQHbK6Y/giphy.gif"
-    width="90%"
-    alt="Divider GIF"
-  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white"/>
+</p>
+
+---
+
+<!-- FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF0000&width=220&lines=ghostisreal" />
 </p>
