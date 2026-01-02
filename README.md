@@ -1,29 +1,19 @@
-<h1 align="center">
-  Hi there 👋, I'm Aman Sinha
-</h1>
+# Hi there 👋, I'm Aman Sinha
 
-<!-- MAIN ANIMATED TYPING -->
+<!-- ANIMATED TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=00FFFF&center=true&vCenter=true&width=420&lines=ghostisreal;AI+%26+Security+Enthusiast;Building+GHOST+AI;Android+Pentester" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=320&lines=ghostisreal;AI+%26+Security+Enthusiast;Building+GHOST+AI;Android+Pentester" />
 </p>
 
-<!-- SOFT DIVIDER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WjMnQiDQHbK6Y/giphy.gif" width="85%" />
-</p>
+---
 
-<!-- AVATAR / HERO GIF -->
+<!-- ANIMATED AVATAR / GIF (MOBILE SAFE) -->
 <p align="center">
   <img
     src="https://media.giphy.com/media/4Ev0Ari2Nd9io/giphy.gif"
     alt="Animated Avatar"
-    style="max-width:260px; width:100%; border-radius:16px; border:2px solid #ff0033; box-shadow:0 0 25px rgba(255,0,51,0.6);"
+    style="max-width: 260px; width: 100%; border-radius: 14px; border: 2px solid #ff0000;"
   />
-</p>
-
-<!-- NAME GLOW -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FF0033&center=true&width=260&lines=ghostisreal" />
 </p>
 
 ---
@@ -37,18 +27,11 @@
 
 ---
 
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/By7Mf8fJScgous3rh8/giphy.gif" width="75%" />
-</p>
-
----
-
 ## 📫 How to reach me
 
-- 📧 **Email:** `face.bookofficial0021@gmail.com`  
-- 📸 **Instagram:** `@hackwithghost`  
-- 🔗 **LinkedIn:** `ghostisreal`  
+- 📧 **Email:** face.bookofficial0021@gmail.com  
+- 📸 **Instagram:** @hackwithghost  
+- 🔗 **LinkedIn:** ghostisreal  
 
 ---
 
@@ -64,7 +47,7 @@
 
 ---
 
-<!-- FINAL FOOTER ANIMATION -->
+<!-- FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=300&lines=Welcome+to+my+world;ghostisreal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF0000&width=220&lines=ghostisreal" />
 </p>
