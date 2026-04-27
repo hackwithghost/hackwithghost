@@ -2,7 +2,7 @@
 breaking machine and secure it →←•
 <!-- ANIMATED TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=320&lines=ghostisreal;AI+%26+Security+Enthusiast;Building+GHOST+AI;Android+Pentester" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=320&lines=ghostisreal;AI+%26+Security+Enthusiast;Building+GHOST+AI;Android+Pentester;Real+Lucifer" />
 </p>
 
 ---
